@@ -1,0 +1,9 @@
+D:\Juanma\Proyectos VS\Carletti\Negocio\bin\Debug\Negocio.dll
+D:\Juanma\Proyectos VS\Carletti\Negocio\bin\Debug\Negocio.pdb
+D:\Juanma\Proyectos VS\Carletti\Negocio\bin\Debug\Datos.dll
+D:\Juanma\Proyectos VS\Carletti\Negocio\bin\Debug\Entidades.dll
+D:\Juanma\Proyectos VS\Carletti\Negocio\bin\Debug\Datos.pdb
+D:\Juanma\Proyectos VS\Carletti\Negocio\bin\Debug\Entidades.pdb
+D:\Juanma\Proyectos VS\Carletti\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Juanma\Proyectos VS\Carletti\Negocio\obj\Debug\Negocio.dll
+D:\Juanma\Proyectos VS\Carletti\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,7 @@
+D:\Juanma\Proyectos VS\Carletti\Datos\bin\Debug\Datos.dll
+D:\Juanma\Proyectos VS\Carletti\Datos\bin\Debug\Datos.pdb
+D:\Juanma\Proyectos VS\Carletti\Datos\bin\Debug\Entidades.dll
+D:\Juanma\Proyectos VS\Carletti\Datos\bin\Debug\Entidades.pdb
+D:\Juanma\Proyectos VS\Carletti\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Juanma\Proyectos VS\Carletti\Datos\obj\Debug\Datos.dll
+D:\Juanma\Proyectos VS\Carletti\Datos\obj\Debug\Datos.pdb
