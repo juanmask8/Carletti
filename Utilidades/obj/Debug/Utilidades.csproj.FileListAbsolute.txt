@@ -1,0 +1,4 @@
+D:\Juanma\Proyectos VS\Carletti\Utilidades\bin\Debug\Utilidades.dll
+D:\Juanma\Proyectos VS\Carletti\Utilidades\bin\Debug\Utilidades.pdb
+D:\Juanma\Proyectos VS\Carletti\Utilidades\obj\Debug\Utilidades.dll
+D:\Juanma\Proyectos VS\Carletti\Utilidades\obj\Debug\Utilidades.pdb
