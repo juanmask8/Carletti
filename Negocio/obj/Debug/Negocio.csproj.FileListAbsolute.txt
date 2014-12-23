@@ -7,3 +7,5 @@ D:\Juanma\Proyectos VS\Carletti\Negocio\bin\Debug\Entidades.pdb
 D:\Juanma\Proyectos VS\Carletti\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 D:\Juanma\Proyectos VS\Carletti\Negocio\obj\Debug\Negocio.dll
 D:\Juanma\Proyectos VS\Carletti\Negocio\obj\Debug\Negocio.pdb
+D:\Juanma\Proyectos VS\Carletti\Negocio\bin\Debug\Utilidades.dll
+D:\Juanma\Proyectos VS\Carletti\Negocio\bin\Debug\Utilidades.pdb

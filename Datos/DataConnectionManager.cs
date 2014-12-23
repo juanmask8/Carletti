@@ -38,7 +38,7 @@ namespace Datos
             while (reader.Read())
             {
                 int id = (int)reader.GetValue(0);
-                int ISBN = (int)reader.GetValue(1);
+                String ISBN = (String)reader.GetValue(1);
                 String titulo = (String)reader.GetValue(2);
                 String detalle = (String)reader.GetValue(3);
                 String imagen = (String)reader.GetValue(4);

@@ -12,13 +12,22 @@ namespace Entidades
         public String imagen { get; set; }
         public String detalle { get; set; }
         public String url { get; set; }
-        public int ISBN { get; set; }
+        public String ISBN { get; set; }
 
         public Libro() { }
 
-        public Libro(int idLibro, String titulo, String imagen, String detalle, String url, int ISBN)
+        public Libro(int idLibro, String titulo, String imagen, String detalle, String url, String ISBN)
         {
             this.idLibro = idLibro;
+            this.titulo = titulo;
+            this.imagen = imagen;
+            this.detalle = detalle;
+            this.url = url;
+            this.ISBN = ISBN;
+        }
+
+        public Libro(String titulo, String imagen, String detalle, String url, String ISBN)
+        {
             this.titulo = titulo;
             this.imagen = imagen;
             this.detalle = detalle;

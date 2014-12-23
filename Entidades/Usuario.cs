@@ -9,7 +9,7 @@ namespace Entidades
     {
         public int idUsuario { get; set; }
         public String usuraio { get; set; }
-        public String constraseña { get; set; }
+        public String contraseña { get; set; }
 
         public Usuario() { }
 
@@ -17,7 +17,13 @@ namespace Entidades
         {
             this.idUsuario = idUsuario;
             this.usuraio = usuraio;
-            this.constraseña = constraseña;
+            this.contraseña = constraseña;
+        }
+
+        public Usuario(String usuraio, String constraseña)
+        {
+            this.usuraio = usuraio;
+            this.contraseña = constraseña;
         }
     }
 }

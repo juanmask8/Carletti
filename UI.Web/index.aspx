@@ -8,8 +8,8 @@
 <meta name='robots' content='noindex,follow' />
 <link rel="alternate" type="application/rss+xml" title="Theme Preview &raquo; Feed" href="https://wp-themes.com/?feed=rss2" />
 <link rel="alternate" type="application/rss+xml" title="Theme Preview &raquo; Comments Feed" href="https://wp-themes.com/?feed=comments-rss2" />
-<link rel='stylesheet' id='hemingway_googleFonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic%7CRaleway%3A700%2C400&#038;ver=4.2-alpha' type='text/css' media='all' />
-<link rel='stylesheet' id='hemingway_style-css'  href='https://wp-themes.com/wp-content/themes/hemingway/style.css?ver=4.2-alpha' type='text/css' media='all' />
+<link rel='stylesheet' href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic%7CRaleway%3A700%2C400&#038;ver=4.2-alpha' type='text/css' media='all' />
+<link rel='stylesheet' href='https://wp-themes.com/wp-content/themes/hemingway/style.css?ver=4.2-alpha' type='text/css' media='all' />
 <script type='text/javascript' src='https://wp-themes.com/wp/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
 <script type='text/javascript' src='https://wp-themes.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wp-themes.com/wp/xmlrpc.php?rsd" />
@@ -72,5 +72,13 @@
 	</ul>
     </div> <!-- /navigation-inner -->
 </div> <!-- /navigation -->
+<div class="wrapper section-inner">
+    <div class="content">
+        <div class="post">
+
+        </div>
+    </div>
+</div>
+
 </body>
 </html>
