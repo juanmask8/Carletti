@@ -1,0 +1,4 @@
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Entidades\bin\Debug\Entidades.dll
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Entidades\bin\Debug\Entidades.pdb
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Entidades\obj\Debug\Entidades.dll
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Entidades\obj\Debug\Entidades.pdb

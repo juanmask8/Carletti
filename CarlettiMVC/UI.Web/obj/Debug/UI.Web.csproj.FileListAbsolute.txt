@@ -1,0 +1,9 @@
+D:\Juanma\GitHub\Carletti\CarlettiMVC\UI.Web\bin\UI.Web.dll
+D:\Juanma\GitHub\Carletti\CarlettiMVC\UI.Web\bin\UI.Web.pdb
+D:\Juanma\GitHub\Carletti\CarlettiMVC\UI.Web\obj\Debug\UI.Web.dll
+D:\Juanma\GitHub\Carletti\CarlettiMVC\UI.Web\obj\Debug\UI.Web.pdb
+D:\Juanma\GitHub\Carletti\CarlettiMVC\UI.Web\bin\Datos.dll
+D:\Juanma\GitHub\Carletti\CarlettiMVC\UI.Web\bin\Entidades.dll
+D:\Juanma\GitHub\Carletti\CarlettiMVC\UI.Web\bin\Datos.pdb
+D:\Juanma\GitHub\Carletti\CarlettiMVC\UI.Web\bin\Entidades.pdb
+D:\Juanma\GitHub\Carletti\CarlettiMVC\UI.Web\obj\Debug\UI.Web.csprojResolveAssemblyReference.cache

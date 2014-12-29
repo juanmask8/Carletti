@@ -1,0 +1,7 @@
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Datos\bin\Debug\Datos.dll
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Datos\bin\Debug\Datos.pdb
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Datos\bin\Debug\Entidades.dll
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Datos\bin\Debug\Entidades.pdb
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Datos\obj\Debug\Datos.dll
+D:\Juanma\GitHub\Carletti\CarlettiMVC\Datos\obj\Debug\Datos.pdb
