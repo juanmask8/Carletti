@@ -1,4 +1,0 @@
-D:\Juanma\Proyectos VS\Carletti\Entidades\bin\Debug\Entidades.dll
-D:\Juanma\Proyectos VS\Carletti\Entidades\bin\Debug\Entidades.pdb
-D:\Juanma\Proyectos VS\Carletti\Entidades\obj\Debug\Entidades.dll
-D:\Juanma\Proyectos VS\Carletti\Entidades\obj\Debug\Entidades.pdb

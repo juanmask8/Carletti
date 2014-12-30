@@ -1,9 +1,0 @@
-D:\Juanma\Proyectos VS\Carletti\UI.Console\bin\Debug\UI.Console.exe
-D:\Juanma\Proyectos VS\Carletti\UI.Console\bin\Debug\UI.Console.pdb
-D:\Juanma\Proyectos VS\Carletti\UI.Console\bin\Debug\Datos.dll
-D:\Juanma\Proyectos VS\Carletti\UI.Console\bin\Debug\Entidades.dll
-D:\Juanma\Proyectos VS\Carletti\UI.Console\bin\Debug\Datos.pdb
-D:\Juanma\Proyectos VS\Carletti\UI.Console\bin\Debug\Entidades.pdb
-D:\Juanma\Proyectos VS\Carletti\UI.Console\obj\x86\Debug\UI.Console.csprojResolveAssemblyReference.cache
-D:\Juanma\Proyectos VS\Carletti\UI.Console\obj\x86\Debug\UI.Console.exe
-D:\Juanma\Proyectos VS\Carletti\UI.Console\obj\x86\Debug\UI.Console.pdb
